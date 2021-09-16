@@ -17,7 +17,7 @@ body{
 
   #fade {
     text-align: center;
-    animation: fade-in-move-up  0.75s;
+    animation: fade-in-move-up  1s;
 }
 
 @keyframes fade-in-move-up {
